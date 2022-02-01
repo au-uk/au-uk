@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mark
-- 👀 I’m interested in Open Source Software
-- 🌱 I’m always looking to learn and collaborate
-- 💞️ I’m looking to collaborate respectfully
+- 👋 I’m Mark
+- 👀 I’m interested in FOSS
+- 🌱 Looking to learn and grow
+- 💞️ Commited to collaborate respectfully
 - 📫 Please feel free to reach out to me
 
 <!---
