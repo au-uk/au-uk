@@ -1,8 +1,7 @@
+Thank you for visiting. This GitHub Repo is a collection of notes and scripts I hope you find something useful. 
+
 - 👋 I’m Mark
 - 👀 I’m interested in FOSS
-- 🌱 Looking to learn and grow
-- 💞️ Commited to collaborate respectfully
-- 📫 Please feel free to reach out to me via GitHub mentions.
 
 <!---
 uk-au/uk-au is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
