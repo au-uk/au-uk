@@ -1,6 +1,8 @@
 # G'Day and thank's for visiting. 
 
-### This Repo is a collection of notes, tip and scripts (borowed, begged and stolen).I hope you find something useful. 
+### This Repo is a collection of notes, tip and scripts (borowed, begged and stolen).
+
+I hope you find something useful. 
 
 - 👋 I’m Mark
 - 👀 I’m interested in Free Open Source Software (FOSS)
