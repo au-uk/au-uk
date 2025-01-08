@@ -1,6 +1,6 @@
 # G'Day and thank's for visiting. 
 
-### This Repository is a collection of things, I don't want to forget and others may fing useful.
+### This Repository is a collection of things, I don't want to forget and others may want to remember.
 
 I hope you find something useful. 
 
